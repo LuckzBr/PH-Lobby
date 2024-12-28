@@ -39,6 +39,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um projeto que exibe um lobby com links para as redes sociais e o portfólio do desenvolvedor.
 
+[🔗 Acesse aqui](https://luckzbr.github.io/PH-Lobby/)
+
 <br>
 
 ## 🔖 Layout
@@ -53,4 +55,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-By Pedro Henrique 
+By Pedro Henrique
